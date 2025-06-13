@@ -1,0 +1,33 @@
+# python Module end assignment
+1. Data preprocessing
+   Added the data preprocessing steps and treated the null values and dropped the unwanted data.
+   also using describe and info function analysed the datas.
+2.Used rand() function to replace the values of height
+  To correct the "height" column by replacing its values with random numbers between 150 and 180, while ensuring data consistency and integrity.
+3.Determine the distribution of employees across each team and calculate the percentage split relative to the total number of employees
+   Used the count  and length function and percentage method to do this task and also visulized using bar chart.
+4.Segregate employees based on their positions within the company  
+  Grouped and counted by position and visulaized using pie chart.
+5.Identify the predominant age group among employees.
+  Count the number of employees and grouped and found the group wiith highest count and visualized using bar chart.
+6. Team and position have the highest salary expenditure
+    Grouped the data with team and salary then find the group with highest salary and sorted the data as top 10 for the easiness in visualizing and used here the pie chart.
+7. Correlation between age and salary
+    Calculate the correlation coefficient and Visualize the relationship using a scatter plot.
+#DATA STORY
+1. Position & Team-Based Salary Distribution
+Certain teams and positions (e.g., Utah Jazz – Center) contributed the highest salary expenditures.
+Positions like Center (C) and Power Forward (PF) often had higher total salaries, possibly due to their strategic importance or seniority.
+
+ 2. Age Group Patterns
+The predominant age group was found to be 26–30 years, indicating that the organization has a relatively young workforce.
+Very few employees were over 40, suggesting either early retirement or a youth-focused recruitment strategy.
+
+3. Correlation Between Age and Salary
+The correlation between age and salary was found to be weak to moderate positive.
+This implies that while salary tends to increase with age, it's not a strong predictor — other factors like experience, role, or team likely play a more significant role.
+
+Overall Trends:
+Position and team are stronger indicators of salary than age.
+There is an evident concentration of employees in a few key roles (e.g., PG, SG), which could influence team strategy and salary distribution.
+The distribution across teams and cities shows some teams dominate in size or cost, which might reflect their market position or star players.
